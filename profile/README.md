@@ -1,4 +1,4 @@
-![Screenshot](../docs/images/logo-wide.png)
+![Screenshot](https://raw.githubusercontent.com/casanet/.github/main/docs/images/logo-wide.png)
 
 Let's create a smart home, without giving anyone access to our house 😊
 
